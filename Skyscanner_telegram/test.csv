@@ -1,0 +1,35 @@
+,departure date,return date,departure time,arrival time,airline,price,duration,stops,layover,return departure time,return arrival time,return airline,return price,return duration,return stops
+0,01/09/2019,04/09/2019,23:10,13:30,China Eastern Airlines,552,13h 20m,(1 stop),"5h 15m in PVG
+Stopover 5h 15m in PVG",23:10,13:30,China Eastern Airlines,0,13h 20m,(1 stop)
+1,01/09/2019,04/09/2019,16:35,13:30,China Eastern Airlines,552,19h 55m,(1 stop),"11h 40m in PVG
+Stopover 11h 40m in PVG",16:35,13:30,China Eastern Airlines,0,19h 55m,(1 stop)
+2,01/09/2019,04/09/2019,3:15,12:30,China Eastern Airlines,552,32h 15m,(1 stop),"22h 40m in XIY
+Stopover 22h 40m in XIY",3:15,12:30,China Eastern Airlines,0,32h 15m,(1 stop)
+0,02/09/2019,05/09/2019,2:00,8:10,Jetstar Asia,308,5h 10m,(Direct),"2h in TPE
+Stopover 2h in TPE",2:00,8:10,Jetstar Asia,0,5h 10m,(Direct)
+1,02/09/2019,05/09/2019,0:55,13:30,China Eastern Airlines,552,11h 35m,(1 stop),"3h 35m in PVG
+Stopover 3h 35m in PVG",0:55,13:30,China Eastern Airlines,0,11h 35m,(1 stop)
+2,02/09/2019,05/09/2019,23:10,13:30,China Eastern Airlines,552,13h 20m,(1 stop),"5h 25m in PVG
+Stopover 5h 25m in PVG",23:10,13:30,China Eastern Airlines,0,13h 20m,(1 stop)
+0,03/09/2019,06/09/2019,23:10,13:30,China Eastern Airlines,520,13h 20m,(1 stop),"5h 15m in PVG
+Stopover 5h 15m in PVG",23:10,13:30,China Eastern Airlines,0,13h 20m,(1 stop)
+1,03/09/2019,06/09/2019,16:35,13:30,China Eastern Airlines,520,19h 55m,(1 stop),"11h 40m in PVG
+Stopover 11h 40m in PVG",16:35,13:30,China Eastern Airlines,0,19h 55m,(1 stop)
+2,03/09/2019,06/09/2019,23:10,16:40,China Eastern Airlines,590,16h 30m,(1 stop),"8h 30m in PVG
+Stopover 8h 30m in PVG",23:10,16:40,China Eastern Airlines,0,16h 30m,(1 stop)
+0,04/09/2019,07/09/2019,23:10,13:30,China Eastern Airlines,660,13h 20m,(1 stop),"5h 25m in PVG
+Stopover 5h 25m in PVG",23:10,13:30,China Eastern Airlines,0,13h 20m,(1 stop)
+1,04/09/2019,07/09/2019,16:35,13:30,China Eastern Airlines,660,19h 55m,(1 stop),"12h 20m in PVG
+Stopover 12h 20m in PVG",16:35,13:30,China Eastern Airlines,0,19h 55m,(1 stop)
+2,04/09/2019,07/09/2019,6:35,15:55,Cathay Pacific,665,8h 20m,(1 stop),"1h 30m in HKG
+Stopover 1h 30m in HKG",6:35,15:55,Cathay Pacific,0,8h 20m,(1 stop)
+0,05/09/2019,08/09/2019,2:00,8:10,Jetstar Asia,350,5h 10m,(Direct),"1h 50m in HKG
+Stopover 1h 50m in HKG",2:00,8:10,Jetstar Asia,0,5h 10m,(Direct)
+1,05/09/2019,08/09/2019,3:15,12:00,China Eastern Airlines,520,31h 45m,(1 stop),"22h 40m in XIY
+Stopover 22h 40m in XIY",3:15,12:00,China Eastern Airlines,0,31h 45m,(1 stop)
+2,05/09/2019,08/09/2019,23:10,13:30,China Eastern Airlines,590,13h 20m,(1 stop),"5h 15m in PVG
+Stopover 5h 15m in PVG",23:10,13:30,China Eastern Airlines,0,13h 20m,(1 stop)
+0,06/09/2019,09/09/2019,2:00,8:10,Jetstar Asia,372,5h 10m,(Direct),KIX - TPE,2:00,8:10,Jetstar Asia,0,5h 10m,(Direct)
+1,06/09/2019,09/09/2019,2:50,20:05,Multiple Airlines,587,16h 15m,(2 stops),MNL - KIX,2:50,20:05,Multiple Airlines,0,16h 15m,(2 stops)
+2,06/09/2019,09/09/2019,10:25,19:55,China Airlines,693,8h 30m,(1 stop),"2h 10m in TPE
+Stopover 2h 10m in TPE",10:25,19:55,China Airlines,0,8h 30m,(1 stop)
